@@ -71,12 +71,6 @@ I'm a Computer Science and Engineering student specialising in **Data Science an
 - Model Evaluation
 - Ethical Hacking and Cybersecurity
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SenArush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenArush&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## ## 🤝 Connect With Me
 
