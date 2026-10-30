@@ -78,19 +78,23 @@ I'm a Computer Science and Engineering student specialising in **Data Science an
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenArush&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 GitHub Contribution Streak
+## ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SenArush&theme=tokyonight&hide_border=true" />
+
+<a href="mailto:arushsen911@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SenArush">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
-## 🌐 Connect With Me
+**Email:** arushsen911@gmail.com
 
-<p align="center">
-  <a href="https://github.com/SenArush">
-    <img src="https://img.shields.io/badge/GitHub-SenArush-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+**GitHub:** https://github.com/SenArush
 
 ---
 
