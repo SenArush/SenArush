@@ -93,7 +93,30 @@ I am passionate about transforming ideas into practical solutions using programm
 - Developed an AI-based learning management project.
 - Add the actual features and implementation details here.
 
----
+AI Spam Message Detector
+
+An AI-powered web application built using Python and Machine Learning to identify whether an SMS message is **SPAM** or **NOT SPAM**.
+
+🔹 **Features**
+- Detects spam and normal SMS messages.
+- Machine Learning-based text classification.
+- Displays prediction results and confidence scores.
+- Interactive web interface built with Streamlit.
+
+🔹 **Technologies Used**
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+- Joblib
+
+🔹 **Project Links**
+
+🌐 [**Live Demo – Try the Application**](https://ai-spam-detector-arush.streamlit.app/)
+
+💻 [**GitHub Repository – View Source Code**](https://github.com/SenArush/AI-Spam-Message-Detector)
+
+
 
 ## 🧠 Currently Exploring
 
