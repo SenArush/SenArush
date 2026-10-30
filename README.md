@@ -1,36 +1,56 @@
-# 👋 Hi, I'm Arush Kumar Sen
+<!-- PROFILE HEADER -->
 
-### AI & Machine Learning Enthusiast | Python Developer | Data Science Student
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+with+Python;Turning+Ideas+into+Projects" alt="Typing SVG" />
-</p>
+# ARUSH KUMAR SEN
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%" />
-</p>
+### AI & MACHINE LEARNING ENTHUSIAST | PYTHON DEVELOPER
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Python+Developer;Machine+Learning+Explorer;Data+Science+Student;Building+Intelligent+Solutions" />
 
-I'm a Computer Science and Engineering student specialising in **Data Science and Artificial Intelligence**. I'm passionate about Python programming, Machine Learning, Deep Learning and solving real-world problems using technology.
-
-- 🎓 BTech in Computer Science & Engineering (DSAI)
-- 💻 Interested in Python Development
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📊 Interested in Data Science and Data Analytics
-- 🔍 Exploring Computer Vision and Deep Learning
-- 🌱 Continuously learning and building new projects
-
-## 🛠️ Technical Skills
-
-### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Field-Data%20Science-0F766E?style=flat-square"/>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Arush Kumar Sen**, a Computer Science and Engineering student specialising in Data Science and Artificial Intelligence.
+
+I am passionate about transforming ideas into practical solutions using programming, data analysis and intelligent systems.
+
+- 🎓 BTech CSE – Data Science & AI
+- 🐍 Python programming and development
+- 🤖 Artificial Intelligence and Machine Learning
+- 📊 Data Analysis and Visualization
+- 👁️ Computer Vision and Deep Learning
+- 🌱 Always learning and exploring new technologies
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Data Science & Machine Learning
-<p>
+### 🌐 Web Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" />
+</p>
+
+### 📊 AI, ML & Data Science
+
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -38,64 +58,106 @@ I'm a Computer Science and Engineering student specialising in **Data Science an
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-### Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
-
-## 💡 Featured Projects
-
-### 1. Urban Noise Pattern Analysis
-- Analysed 57,449 records using Python.
-- Performed data preprocessing and exploratory data analysis.
-- Applied feature engineering.
-- Developed Logistic Regression and Random Forest classification models.
-- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-
-### 2. E-Train India
-- Python-based AI project involving image recognition.
-- Focused on applying image recognition techniques.
-
-### 3. AI Learning Management System
-- AI-based learning management project.
-- Add the actual features and technologies implemented in your project.
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Model Evaluation
-- Ethical Hacking and Cybersecurity
-
-
-## ## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:arushsen911@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/SenArush">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
-**Email:** arushsen911@gmail.com
-
-**GitHub:** https://github.com/SenArush
 
 ---
 
-<p align="center">
-  <b>⭐ Keep Learning | Keep Building | Keep Growing ⭐</b>
-</p>
+## 🚀 Featured Projects
+
+### 01 | Urban Noise Pattern Analysis
+
+**Machine Learning | Data Analytics | Python**
+
+- Processed 57,449 records.
+- Performed data preprocessing and exploratory data analysis.
+- Developed Logistic Regression and Random Forest models.
+- Used feature engineering and data visualization.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+### 02 | E-Train India
+
+**Artificial Intelligence | Image Recognition**
+
+- Developed a Python-based project involving AI and image recognition.
+- Explored practical applications of image recognition.
+
+### 03 | AI Learning Management System
+
+**Artificial Intelligence | Education Technology**
+
+- Developed an AI-based learning management project.
+- Add the actual features and implementation details here.
+
+---
+
+## 🧠 Currently Exploring
+
+- Machine Learning Algorithms
+- Deep Learning and Neural Networks
+- Computer Vision
+- Natural Language Processing
+- Model Optimization and Deployment
+- Ethical Hacking and Cybersecurity
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SenArush&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenArush&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SenArush&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- Build real-world AI and ML applications.
+- Improve my problem-solving skills.
+- Explore AI research and development.
+- Contribute to open-source projects.
+- Pursue advanced studies in Data Science and AI.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:arushsen911@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SenArush">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <p align="center">
-  <i>Thanks for visiting my GitHub profile!</i>
+  📧 <b>Email:</b> arushsen911@gmail.com
 </p>
+
+---
+
+<div align="center">
+
+### "Code. Learn. Build. Innovate."
+
+⭐ Thank you for visiting my profile!
+
+</div>
