@@ -93,7 +93,7 @@ I am passionate about transforming ideas into practical solutions using programm
 - Developed an AI-based learning management project.
 - Add the actual features and implementation details here.
 
-AI Spam Message Detector
+#### 04 | AI Spam Message Detector
 
 An AI-powered web application built using Python and Machine Learning to identify whether an SMS message is **SPAM** or **NOT SPAM**.
 
