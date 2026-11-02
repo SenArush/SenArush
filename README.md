@@ -116,6 +116,24 @@ An AI-powered web application built using Python and Machine Learning to identif
 
 💻 [**GitHub Repository – View Source Code**](https://github.com/SenArush/AI-Spam-Message-Detector)
 
+## 🚀 Featured Project
+
+#### 05 🌍 UrbanSense-AI | AI-Powered Urban Environmental Analysis
+
+An AI-powered web application for analyzing urban environmental conditions, including temperature, Air Quality Index (AQI), and noise pollution using Python, Machine Learning, and Streamlit.
+
+**Key Features:**
+- 📊 Interactive environmental dashboard
+- 🌡️ Temperature and AQI analysis
+- 🔊 Urban noise pollution analysis
+- 🤖 Machine Learning-based environmental prediction
+- 📈 City-wise data visualization
+
+**Tech Stack:** Python · Streamlit · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+
+🔗 [**Live Demo**](https://urbansense-ai-kl26qjxurxibnhfmqqd6zs.streamlit.app/) | [**GitHub Repository**](https://github.com/SenArush/UrbanSense-AI)
+
+---
 
 
 ## 🧠 Currently Exploring
