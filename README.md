@@ -116,7 +116,6 @@ An AI-powered web application built using Python and Machine Learning to identif
 
 💻 [**GitHub Repository – View Source Code**](https://github.com/SenArush/AI-Spam-Message-Detector)
 
-## 🚀 Featured Project
 
 #### 05 🌍 UrbanSense-AI | AI-Powered Urban Environmental Analysis
 
